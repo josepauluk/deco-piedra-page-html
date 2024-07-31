@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Revestimientos &#8211; Deco Piedra</title>
+	<atom:link href="/categoria-producto/revestimientos/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Fábrica de Revestimientos y pisos</description>
+	<lastBuildDate>Thu, 15 Feb 2024 17:05:13 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>https://i0.wp.com/decopiedra.ar/wp-content/uploads/2023/10/cropped-icon-site.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Revestimientos &#8211; Deco Piedra</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">224848271</site>	<item>
+		<title>Zapala</title>
+		<link>/producto/zapala/</link>
+					<comments>/producto/zapala/#respond</comments>
+		
+		<dc:creator><![CDATA[c1592147]]></dc:creator>
+		<pubDate>Fri, 27 Oct 2023 23:01:59 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=2118</guid>
+
+					<description><![CDATA[Revestimiento fabricado en Hormigón.
+
+El precio corresponde a 10.000 cm2 (25 piezas). Los precios no refieren exactamente al m2 ya que de modelo a modelo varían las medidas.]]></description>
+										<content:encoded><![CDATA[<div class="woocommerce-product-details__short-description">
+<div class="woocommerce-product-details__short-description">
+<p>Revestimiento fabricado en Hormigón.</p>
+<p>El precio corresponde a 10.000 cm2 (25 piezas). Los precios no refieren exactamente al m2 ya que de modelo a modelo varían las medidas.</p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/producto/zapala/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2118</post-id>	</item>
+		<item>
+		<title>Piedra Rústica</title>
+		<link>/producto/piedra-rustica/</link>
+					<comments>/producto/piedra-rustica/#respond</comments>
+		
+		<dc:creator><![CDATA[c1592147]]></dc:creator>
+		<pubDate>Fri, 27 Oct 2023 15:05:36 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=2033</guid>
+
+					<description><![CDATA[Revestimiento fabricado en Hormigón.
+
+El precio corresponde a 9.800 cm2 (20 piezas). Los precios no refieren exactamente al m2 ya que de modelo a modelo varían las medidas.]]></description>
+										<content:encoded><![CDATA[<p>Revestimiento fabricado en Hormigón.</p>
+<p>El precio corresponde a 9.800 cm2 (20 piezas). Los precios no refieren exactamente al m2 ya que de modelo a modelo varían las medidas.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/producto/piedra-rustica/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2033</post-id>	</item>
+		<item>
+		<title>Travertino</title>
+		<link>/producto/travertino/</link>
+					<comments>/producto/travertino/#respond</comments>
+		
+		<dc:creator><![CDATA[c1592147]]></dc:creator>
+		<pubDate>Fri, 27 Oct 2023 14:03:36 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=1990</guid>
+
+					<description><![CDATA[Revestimiento fabricado en Hormigón.
+
+El precio corresponde a 10.092 cm2 (12 piezas). Los precios no refieren exactamente al m2 ya que de modelo a modelo varían las medidas.]]></description>
+										<content:encoded><![CDATA[<p>Revestimiento fabricado en Hormigón.</p>
+<p>El precio corresponde a 10.092 cm2 (12 piezas). Los precios no refieren exactamente al m2 ya que de modelo a modelo varían las medidas.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/producto/travertino/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1990</post-id>	</item>
+		<item>
+		<title>3 D Curvo</title>
+		<link>/producto/3-d-curvo/</link>
+					<comments>/producto/3-d-curvo/#respond</comments>
+		
+		<dc:creator><![CDATA[c1592147]]></dc:creator>
+		<pubDate>Fri, 27 Oct 2023 13:47:35 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=1981</guid>
+
+					<description><![CDATA[Revestimiento fabricado en Hormigón.]]></description>
+										<content:encoded><![CDATA[<p>El precio corresponde a 9.980 cm2. Los precios no refieren exactamente al m2 ya que de modelo a modelo varían las medidas.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/producto/3-d-curvo/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1981</post-id>	</item>
+		<item>
+		<title>Librillo</title>
+		<link>/producto/librillo/</link>
+					<comments>/producto/librillo/#respond</comments>
+		
+		<dc:creator><![CDATA[c1592147]]></dc:creator>
+		<pubDate>Fri, 27 Oct 2023 13:39:52 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=1976</guid>
+
+					<description><![CDATA[Revestimiento para pared fabricado en Hormigón.]]></description>
+										<content:encoded><![CDATA[<p>Revestimiento para pared fabricado en Hormigón.</p>
+<p>El precio corresponde a 9.504 cm2. Los precios no refieren exactamente al m2 ya que de modelo a modelo varían las medidas.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/producto/librillo/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1976</post-id>	</item>
+		<item>
+		<title>Símil Bloque</title>
+		<link>/producto/simil-bloque/</link>
+					<comments>/producto/simil-bloque/#respond</comments>
+		
+		<dc:creator><![CDATA[c1592147]]></dc:creator>
+		<pubDate>Fri, 27 Oct 2023 13:25:58 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=1946</guid>
+
+					<description><![CDATA[Revestimiento para pared fabricado en Hormigón.]]></description>
+										<content:encoded><![CDATA[<p>Revestimiento para pared fabricado en Hormigón.</p>
+<p>El precio corresponde a 9.871 cm2. Los precios no refieren exactamente al m2 ya que de modelo a modelo varían las medidas.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/producto/simil-bloque/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1946</post-id>	</item>
+		<item>
+		<title>Montana</title>
+		<link>/producto/montana/</link>
+					<comments>/producto/montana/#respond</comments>
+		
+		<dc:creator><![CDATA[c1592147]]></dc:creator>
+		<pubDate>Thu, 26 Oct 2023 14:54:15 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=1887</guid>
+
+					<description><![CDATA[Revestimiento para pared fabricado en Hormigón.]]></description>
+										<content:encoded><![CDATA[<p>Revestimiento para pared fabricado en Hormigón.</p>
+<p>El precio corresponde a 9.504 cm2. Los precios no refieren exactamente al m2 ya que de modelo a modelo varían las medidas.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/producto/montana/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1887</post-id>	</item>
+		<item>
+		<title>Scala</title>
+		<link>/producto/scala/</link>
+					<comments>/producto/scala/#respond</comments>
+		
+		<dc:creator><![CDATA[c1592147]]></dc:creator>
+		<pubDate>Wed, 25 Oct 2023 22:21:16 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=1867</guid>
+
+					<description><![CDATA[Revestimiento fabricado en hormigón.]]></description>
+										<content:encoded><![CDATA[<p>Revestimiento fabricado en hormigón.</p>
+<p>El precio corresponde a 9.702 cm2. Los precios no refieren exactamente al m2 ya que de modelo a modelo varían las medidas.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/producto/scala/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1867</post-id>	</item>
+		<item>
+		<title>Calera</title>
+		<link>/producto/calera/</link>
+					<comments>/producto/calera/#respond</comments>
+		
+		<dc:creator><![CDATA[c1592147]]></dc:creator>
+		<pubDate>Tue, 17 Oct 2023 15:17:26 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=1795</guid>
+
+					<description><![CDATA[El precio corresponde a 9.800 cm2. Los precios no refieren exactamente al m2 ya que de modelo a modelo varían las medidas.]]></description>
+										<content:encoded><![CDATA[<p>Revestimiento para pared fabricado en Hormigón</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/producto/calera/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1795</post-id>	</item>
+	</channel>
+</rss>

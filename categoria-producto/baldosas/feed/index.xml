@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Baldosas &#8211; Deco Piedra</title>
+	<atom:link href="/categoria-producto/baldosas/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Fábrica de Revestimientos y pisos</description>
+	<lastBuildDate>Thu, 15 Feb 2024 16:57:53 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>https://i0.wp.com/decopiedra.ar/wp-content/uploads/2023/10/cropped-icon-site.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Baldosas &#8211; Deco Piedra</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">224848271</site>	<item>
+		<title>Adoquín Recto</title>
+		<link>/producto/adoquin-recto/</link>
+					<comments>/producto/adoquin-recto/#respond</comments>
+		
+		<dc:creator><![CDATA[c1592147]]></dc:creator>
+		<pubDate>Mon, 27 Nov 2023 22:59:53 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=2192</guid>
+
+					<description><![CDATA[Baldosa fabricada en hormigón. El metro cuadrado corresponde a 6,25 baldosas de 40 x 40 cm.]]></description>
+										<content:encoded><![CDATA[<p>Baldosa fabricada en hormigón. El metro cuadrado corresponde a 6,25 baldosas de 40 x 40 cm.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/producto/adoquin-recto/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2192</post-id>	</item>
+		<item>
+		<title>Vainilla 64 panes</title>
+		<link>/producto/vainilla-64-panes/</link>
+					<comments>/producto/vainilla-64-panes/#respond</comments>
+		
+		<dc:creator><![CDATA[c1592147]]></dc:creator>
+		<pubDate>Fri, 27 Oct 2023 22:39:57 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=2114</guid>
+
+					<description><![CDATA[Corresponde al color del cemento real.]]></description>
+										<content:encoded><![CDATA[<p>El precio corresponde a 10.000 cm2 (6,25 piezas). Los precios no refieren exactamente al m2 ya que de modelo a modelo varían las medidas.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/producto/vainilla-64-panes/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2114</post-id>	</item>
+		<item>
+		<title>Vainilla 6 panes</title>
+		<link>/producto/vainilla-6-panes/</link>
+					<comments>/producto/vainilla-6-panes/#respond</comments>
+		
+		<dc:creator><![CDATA[c1592147]]></dc:creator>
+		<pubDate>Fri, 27 Oct 2023 22:28:12 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=2106</guid>
+
+					<description><![CDATA[El precio corresponde a 10.000 cm2 (25 piezas). Los precios no refieren exactamente al m2 ya que de modelo a modelo varían las medidas.]]></description>
+										<content:encoded><![CDATA[<p>El precio corresponde a 10.000 cm2 (25 piezas). Los precios no refieren exactamente al m2 ya que de modelo a modelo varían las medidas.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/producto/vainilla-6-panes/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2106</post-id>	</item>
+		<item>
+		<title>Vainilla 3 panes</title>
+		<link>/producto/vainilla-3-panes/</link>
+					<comments>/producto/vainilla-3-panes/#respond</comments>
+		
+		<dc:creator><![CDATA[c1592147]]></dc:creator>
+		<pubDate>Fri, 27 Oct 2023 22:14:54 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=2099</guid>
+
+					<description><![CDATA[<div class="woocommerce-product-details__short-description">
+
+Baldosa fabricada en Hormigón.
+
+El precio corresponde a 10.000 cm2 (25 piezas). Los precios no refieren exactamente al m2 ya que de modelo a modelo varían las medidas.
+
+</div>]]></description>
+										<content:encoded><![CDATA[<div class="woocommerce-product-details__short-description">
+<p>Baldosa fabricada en Hormigón.</p>
+<p>El precio corresponde a 10.000 cm2 (25 piezas). Los precios no refieren exactamente al m2 ya que de modelo a modelo varían las medidas.</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/producto/vainilla-3-panes/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2099</post-id>	</item>
+		<item>
+		<title>San Luis</title>
+		<link>/producto/san-luis/</link>
+					<comments>/producto/san-luis/#respond</comments>
+		
+		<dc:creator><![CDATA[c1592147]]></dc:creator>
+		<pubDate>Fri, 27 Oct 2023 21:51:16 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=2076</guid>
+
+					<description><![CDATA[<div class="woocommerce-product-details__short-description">
+
+Baldosa fabricada en Hormigón.
+
+El precio corresponde a 10.000 cm2 (6,25 piezas). Los precios no refieren exactamente al m2 ya que de modelo a modelo varían las medidas.
+
+</div>]]></description>
+										<content:encoded><![CDATA[<div class="woocommerce-product-details__short-description">
+<p>Baldosa fabricada en Hormigón.</p>
+<p>El precio corresponde a 10.000 cm2 (6,25 piezas). Los precios no refieren exactamente al m2 ya que de modelo a modelo varían las medidas.</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/producto/san-luis/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2076</post-id>	</item>
+		<item>
+		<title>San Juan</title>
+		<link>/producto/san-juan/</link>
+					<comments>/producto/san-juan/#respond</comments>
+		
+		<dc:creator><![CDATA[c1592147]]></dc:creator>
+		<pubDate>Fri, 27 Oct 2023 21:23:38 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=2057</guid>
+
+					<description><![CDATA[<div class="woocommerce-product-details__short-description">
+
+Baldosa fabricada en Hormigón.
+
+El precio corresponde a 10.000 cm2 (6,25 piezas). Los precios no refieren exactamente al m2 ya que de modelo a modelo varían las medidas.
+
+</div>]]></description>
+										<content:encoded><![CDATA[<div class="woocommerce-product-details__short-description">
+<p>Baldosa fabricada en Hormigón.</p>
+<p>El precio corresponde a 10.000 cm2 (6,25 piezas). Los precios no refieren exactamente al m2 ya que de modelo a modelo varían las medidas.</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/producto/san-juan/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2057</post-id>	</item>
+		<item>
+		<title>Laja Española</title>
+		<link>/producto/laja-espanola/</link>
+					<comments>/producto/laja-espanola/#respond</comments>
+		
+		<dc:creator><![CDATA[c1592147]]></dc:creator>
+		<pubDate>Fri, 27 Oct 2023 20:56:25 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=2045</guid>
+
+					<description><![CDATA[Baldosa fabricada en Hormigón.
+
+El precio corresponde a 10.000 cm2 (6,25 piezas). Los precios no refieren exactamente al m2 ya que de modelo a modelo varían las medidas.]]></description>
+										<content:encoded><![CDATA[<div class="woocommerce-product-details__short-description">
+<p>Baldosa fabricada en Hormigón.</p>
+<p>El precio corresponde a 10.000 cm2 (6,25 piezas). Los precios no refieren exactamente al m2 ya que de modelo a modelo varían las medidas.</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/producto/laja-espanola/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2045</post-id>	</item>
+	</channel>
+</rss>
